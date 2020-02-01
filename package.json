@@ -1,0 +1,11 @@
+{
+  "name": "beaverboyz",
+  "version": "1.0.0",
+  "description": "Global ",
+  "main": "Global Game Jam",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
